@@ -1,0 +1,19 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "viral-product-images",
+  "displayName": "Viral Product Images",
+  "version": "1.0.0",
+  "description": "欧美市场爆款产品图全自动产线：跨品类独立站 PDP 黄金 7 图 + Meta 高转化投流静图，底图与极简排版分离。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "帮我为这个独立站商品做一套欧美 PDP 黄金 7 图",
+    "根据商品实拍图生成 3 张高转化 Meta 投流静图广告",
+    "画一套带英制尺寸标尺和卖点解剖标注的商品详情图"
+  ],
+  "author": {
+    "name": "codebear",
+    "url": "https://github.com/LZH0713"
+  },
+  "homepage": "https://github.com/LZH0713/codebear-skills",
+  "repository": "https://github.com/LZH0713/codebear-skills"
+}

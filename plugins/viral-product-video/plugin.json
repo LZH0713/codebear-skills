@@ -1,0 +1,19 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "viral-product-video",
+  "displayName": "Viral Product Video",
+  "version": "1.0.0",
+  "description": "跨品类商品真实推广视频全自动产线：爆款检索拆解、多图锚定关键帧与分镜视频质检、精剪成片交付。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "找这个商品的同款高播爆款视频并拆解分镜",
+    "用 muse2api 生成人货同框的关键帧和商品带货视频",
+    "为这个独立站 SKU 复刻拍一条 9:16 投流广告视频"
+  ],
+  "author": {
+    "name": "codebear",
+    "url": "https://github.com/LZH0713"
+  },
+  "homepage": "https://github.com/LZH0713/codebear-skills",
+  "repository": "https://github.com/LZH0713/codebear-skills"
+}
