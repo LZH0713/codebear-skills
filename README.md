@@ -13,11 +13,8 @@ Personal collection of custom Agent Skills.
 
 ```text
 .
-├── .antigravity-plugin/
-│   └── plugin.json
 ├── .claude-plugin/
-│   ├── marketplace.json
-│   └── plugin.json
+│   └── marketplace.json
 ├── README.md
 └── skills/
     ├── viral-product-images/
@@ -32,13 +29,12 @@ Personal collection of custom Agent Skills.
 
 ### Add as a Plugin Marketplace
 
-Add `https://github.com/LZH0713/codebear-skills.git` (or `LZH0713/codebear-skills`) as a custom plugin marketplace, then install `codebear-skills`.
-
-In Claude Code:
+Add `https://github.com/LZH0713/codebear-skills.git` (or `LZH0713/codebear-skills`) as a custom plugin marketplace, then pick and install individual skills from the list:
 
 ```bash
 /plugin marketplace add LZH0713/codebear-skills
-/plugin install codebear-skills@codebear-skills
+/plugin install viral-product-images@codebear-skills
+/plugin install viral-product-video@codebear-skills
 ```
 
 ### Install via `skills` CLI
