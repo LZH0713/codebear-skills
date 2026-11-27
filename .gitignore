@@ -1,0 +1,25 @@
+# Environment & secrets
+.env
+*.env
+.env.*
+.muse.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+
+# macOS & editors
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.vscode/
+.idea/
+
+# Logs & temporary outputs
+*.log
+tmp/
