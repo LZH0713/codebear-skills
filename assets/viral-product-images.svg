@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="imgBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7A18"/>
+      <stop offset="100%" stop-color="#AF002D"/>
+    </linearGradient>
+    <linearGradient id="imgShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#imgBg)"/>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#imgShine)"/>
+  <!-- Image frame -->
+  <rect x="30" y="34" width="68" height="58" rx="10" fill="none" stroke="#FFFFFF" stroke-width="5.5"/>
+  <!-- Sun / studio light -->
+  <circle cx="48" cy="52" r="6.5" fill="#FFE082"/>
+  <!-- Mountain / product silhouette waves -->
+  <path d="M33 84 L54 62 L69 76 L79 65 L95 84 Z" fill="#FFFFFF" fill-opacity="0.92"/>
+  <!-- Sparkle badge -->
+  <path d="M96 24 L99 33 L108 36 L99 39 L96 48 L93 39 L84 36 L93 33 Z" fill="#FFE082"/>
+</svg>

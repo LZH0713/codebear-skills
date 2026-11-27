@@ -13,6 +13,7 @@
     {
       "name": "viral-product-images",
       "description": "欧美市场爆款产品图全自动产线：跨品类独立站 PDP 黄金 7 图 + Meta 高转化投流静图，底图与极简排版分离。",
+      "logo": "assets/viral-product-images.svg",
       "source": "./",
       "strict": false,
       "skills": [
@@ -22,6 +23,7 @@
     {
       "name": "viral-product-video",
       "description": "跨品类商品真实推广视频全自动产线：爆款检索拆解、多图锚定关键帧与分镜视频质检、精剪成片交付。",
+      "logo": "assets/viral-product-video.svg",
       "source": "./",
       "strict": false,
       "skills": [

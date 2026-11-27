@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <defs>
+    <linearGradient id="vidBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="vidShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#vidBg)"/>
+  <rect x="12" y="12" width="104" height="104" rx="24" fill="url(#vidShine)"/>
+  <!-- Film / Reels rounded frame -->
+  <rect x="30" y="34" width="68" height="58" rx="12" fill="none" stroke="#FFFFFF" stroke-width="5.5"/>
+  <!-- Play triangle -->
+  <path d="M56 49 L56 77 L80 63 Z" fill="#FFFFFF"/>
+  <!-- Sparkle badge -->
+  <path d="M96 24 L99 33 L108 36 L99 39 L96 48 L93 39 L84 36 L93 33 Z" fill="#FDE047"/>
+</svg>
