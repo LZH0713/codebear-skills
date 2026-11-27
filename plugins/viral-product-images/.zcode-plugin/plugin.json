@@ -1,0 +1,24 @@
+{
+  "name": "viral-product-images",
+  "version": "1.0.0",
+  "description": "Automated US/EU viral e-commerce product image pipeline: 7-image DTC PDP gallery + Meta static ad creatives with clean base generation and typography layout.",
+  "description_i18n": {
+    "en": "Automated US/EU viral e-commerce product image pipeline: 7-image DTC PDP gallery + Meta static ad creatives with clean base generation and typography layout.",
+    "zh-CN": "欧美市场爆款产品图全自动产线：跨品类独立站 PDP 黄金 7 图 + Meta 高转化投流静图，底图与极简排版分离。"
+  },
+  "author": {
+    "name": "codebear",
+    "email": "zhihongleung@foxmail.com",
+    "url": "https://github.com/LZH0713"
+  },
+  "homepage": "https://github.com/LZH0713/codebear-skills",
+  "repository": "https://github.com/LZH0713/codebear-skills",
+  "keywords": [
+    "ecommerce",
+    "dtc",
+    "product-images",
+    "meta-ads",
+    "design"
+  ],
+  "skills": "skills"
+}

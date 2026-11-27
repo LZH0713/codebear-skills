@@ -15,18 +15,23 @@ Personal plugin marketplace & collection of custom Agent Skills.
 .
 ├── .claude-plugin/
 │   └── marketplace.json
+├── assets/
+│   ├── viral-product-images/icon.png
+│   └── viral-product-video/icon.png
 ├── README.md
 └── plugins/
     ├── viral-product-images/
-    │   ├── plugin.json
+    │   ├── .zcode-plugin/plugin.json
     │   ├── .claude-plugin/plugin.json
+    │   ├── plugin.json
     │   ├── assets/logo.svg
     │   └── skills/viral-product-images/
     │       ├── SKILL.md
     │       └── scripts/
     └── viral-product-video/
-        ├── plugin.json
+        ├── .zcode-plugin/plugin.json
         ├── .claude-plugin/plugin.json
+        ├── plugin.json
         ├── assets/logo.svg
         └── skills/viral-product-video/
             ├── SKILL.md
