@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "codebear-skills",
+  "owner": {
+    "name": "codebear",
+    "email": "zhihongleung@foxmail.com"
+  },
+  "metadata": {
+    "description": "Personal collection of custom Agent Skills by codebear",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "codebear-skills",
+      "source": "./",
+      "description": "Custom e-commerce & growth skills including viral-product-images and viral-product-video pipelines.",
+      "version": "1.0.0",
+      "author": {
+        "name": "codebear",
+        "email": "zhihongleung@foxmail.com"
+      },
+      "repository": "https://github.com/LZH0713/codebear-skills",
+      "keywords": [
+        "skills",
+        "ecommerce",
+        "product-images",
+        "product-video",
+        "marketing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "codebear-skills",
+  "version": "1.0.0",
+  "description": "Custom e-commerce & growth skills including viral-product-images and viral-product-video pipelines.",
+  "author": {
+    "name": "codebear",
+    "email": "zhihongleung@foxmail.com",
+    "url": "https://github.com/LZH0713"
+  },
+  "homepage": "https://github.com/LZH0713/codebear-skills",
+  "repository": "https://github.com/LZH0713/codebear-skills",
+  "keywords": [
+    "skills",
+    "ecommerce",
+    "product-images",
+    "product-video",
+    "marketing"
+  ]
+}
